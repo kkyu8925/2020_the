@@ -3,7 +3,7 @@
 
 ### 개발일자 : 2020-05-01 ~ 2020-11-10  
 
-### 개발환경 : Spring frameWork
+### 개발환경 : Spring frameWork 4.2.9
 ### 개발 언어 : Java, python
 ### 개발 기술 : Java Jsoup, CoreNLP, Python Flask, AWS ec2
 ### DB : MySql, mongoDB
