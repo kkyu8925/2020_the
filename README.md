@@ -9,8 +9,8 @@
   - Java 8, Python - 개발 언어
   - Maven - 의존성 관리 프로그램
   - Tomcat - 웹 애플리케이션 서버
-  - MariaDB, Redis - 데이터베이스
-  - AWS EC2, RDS, Route53, Docker - 서버 인프라
+  - MySQL, MongoDB - 데이터베이스
+  - AWS EC2, RDS, Route53 - 서버 인프라
 
 ## 설명  
 - Java Jsoup 라이브러리를 사용해 웹 크롤링을 통하여 각종 최신 영문 뉴스를 수집하여 사용자에게 단어 및 표현을 제공하는 영어 학습 애플리케이션입니다.
