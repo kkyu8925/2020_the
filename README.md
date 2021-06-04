@@ -27,3 +27,6 @@
 ### 시연영상 URL
 [![](https://i.ytimg.com/vi/byTrpJJPjNo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBcRHXMkvEdoZIWLXNBhRXRNf5KzA)](https://www.youtube.com/watch?v=byTrpJJPjNo&t "demo")
 
+### 수상
+<a href="https://www.notion.so/4-8b8fcc31e57a4aa8b325f36b89f3be8b">Link</a>
+
